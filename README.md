@@ -12,6 +12,7 @@ I need to write a python script to get
 
 ## Resources
 Data Source: election_results.csv
+
 the dataset looks below:
 ![data_overview](Resources/overview.png)
 
